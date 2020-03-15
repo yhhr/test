@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="lianJi:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/lianJi_jar2</output-path>
+    <root id="archive" name="lianJi.jar">
+      <element id="module-output" name="lianJi" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/AllInOne.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/log4j-1.2.15.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
